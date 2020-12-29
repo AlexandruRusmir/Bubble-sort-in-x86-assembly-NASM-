@@ -3,7 +3,7 @@ Simple bubble sort algorithm created in Netwide Assembler (32 bit) with asm tool
 Pseudocode:
 
 	READ n
-	READ array with n elements
+	READ array with n integer elements
 
 	REPEAT
 		sw  ← 0
