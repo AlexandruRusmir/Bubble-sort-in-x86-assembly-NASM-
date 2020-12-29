@@ -16,4 +16,4 @@ Pseudocode:
 			ENDIF
 		ENDFOR
 	UNTIL sw = 0
-  PRINT arr
+  	PRINT arr
