@@ -11,8 +11,8 @@ Pseudocode:
 			IF arr[i] > arr[i+1] THEN
 				  sw  ← 1
 				  aux ← arr[i]
-          arr[i] ← arr[i+1]
-          arr[i+1] ← aux
+          			  arr[i] ← arr[i+1]
+          			  arr[i+1] ← aux
 			ENDIF
 		ENDFOR
 	UNTIL sw = 0
